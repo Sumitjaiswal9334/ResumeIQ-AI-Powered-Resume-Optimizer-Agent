@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.env
+resume_optimizer.db
+.venv/
+venv/
+.streamlit/secrets.toml
